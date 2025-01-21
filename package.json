@@ -1,0 +1,28 @@
+{
+  "name": "kart-oving-3",
+  "version": "1.0.0",
+  "description": "kart-oving-03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trynym03/kart-oving-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trynym03/kart-oving-3/issues"
+  },
+  "homepage": "https://github.com/trynym03/kart-oving-3#readme",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
